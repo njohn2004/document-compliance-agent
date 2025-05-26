@@ -31,6 +31,7 @@ Components:
 -   Documents passed: Invoice, Receipt
 -   Query passed: "*Net amount in invoice equal to amount paid in receipt* and *due_date must be after or on invoice_date*"
 -   Agent output:
+![Screenshot 2025-05-25 222814](https://github.com/user-attachments/assets/786c4c88-7f7a-40f0-8a71-7153b514875f)
 
 
 ## Limitations:
