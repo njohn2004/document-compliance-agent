@@ -39,6 +39,7 @@ Components:
 -   This implementation requires users to create and link their own processors for document parsing
 -   Document parsing is lacking when it comes to handwritten and scanned documents.
 -   Logically reasoning of document type from heading requires more workshopping and refining (assumes certain keyword in the first section of the document)
+-   Open source doc parsing script does not process document data properly
 
 ## Future Enhancements:
 -   If doc type is identified, create new type of processor and assign to document on demand without user intervention.
