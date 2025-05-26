@@ -1,5 +1,0 @@
-Future Enhancements:
--Create new type of processor and assign to document on demand
--Use specialized model to perform document parsing and train with each document uploaded (implement a feedback mechanism to identify missing fields in parsed documents)
--Allow for user creation of custom processors?
--
